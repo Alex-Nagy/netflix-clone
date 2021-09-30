@@ -4,4 +4,5 @@ not fully done
 4
 5
 6
+7
 https://netflix-clone-9587c.web.app/
