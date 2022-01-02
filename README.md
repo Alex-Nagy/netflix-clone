@@ -1,9 +1,6 @@
 # netlfix-clone
+ Your site is published at https://netflix-clone-9587c.web.app/
+ 
 not fully done
-3
-4
-5
-6
-7
-8
-https://netflix-clone-9587c.web.app/
+
+
